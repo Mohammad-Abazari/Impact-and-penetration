@@ -33,14 +33,14 @@ are multiple solutions, due to the variety of methods available.
 
 [@forrestal1994empirical; @forrestal1996penetration; @frew2006effect; @frew1998penetration]
 proposed the following formula for projectile depth of penetration[^1],
-$$\label{eq01}
+$\label{eq01}
   \begin{aligned}
   h_{\text {pen }}=&\frac{\left(L+0.5 k^{\prime} d\right)}{2 N}\left(\frac{\rho_p}{\rho_0}\right) \ln \left[1+\frac{N \rho_0 V_1^2}{S f_{\mathrm{c}}}\right]+2 d \\
   =&\frac{2 M}{\pi d^2 \rho_0 N} \ln \left[1+\frac{N \rho_0 V_1^2}{S f_{\mathrm{c}}}\right]+2 d
   \end{aligned}$$ $$\label{eq02}
-k^{\prime}=\left(4 \psi^2-\frac{4 \psi}{3}+\frac{1}{3}\right)(4 \psi-1)^{0.5}-4 \psi^2(2 \psi-1) \sin ^{-1}\left[\frac{(4 \psi-1)^{0.5}}{2 \psi}\right]$$
-$$\label{eq03}
-  N=\frac{8 \psi-1}{24 \psi^2}; \quad V_1^2=\frac{V_0^2-\left({2 d}/({L+0.5 k^{\prime} d})\right)\left({S f_c}/{\rho_p}\right)}{1+N\left({2 d}/({L+0.0 k^{\prime} d})\right)\left({\rho_0}/{\rho_p}\right)} ; \quad S=82.6 \times\left(f_{\mathrm{c}} \times 10^{-6}\right)^{-0.544}$$
+k^{\prime}=\left(4 \psi^2-\frac{4 \psi}{3}+\frac{1}{3}\right)(4 \psi-1)^{0.5}-4 \psi^2(2 \psi-1) \sin ^{-1}\left[\frac{(4 \psi-1)^{0.5}}{2 \psi}\right]$
+$\label{eq03}
+  N=\frac{8 \psi-1}{24 \psi^2}; \quad V_1^2=\frac{V_0^2-\left({2 d}/({L+0.5 k^{\prime} d})\right)\left({S f_c}/{\rho_p}\right)}{1+N\left({2 d}/({L+0.0 k^{\prime} d})\right)\left({\rho_0}/{\rho_p}\right)} ; \quad S=82.6 \times\left(f_{\mathrm{c}} \times 10^{-6}\right)^{-0.544}$
 
 [@forrestal2003penetration] modified the above. The proposed formula are
 only applicable for ogive-nosed projectiles while neglecting friction
